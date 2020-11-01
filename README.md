@@ -1,1 +1,1 @@
-# pente-js
+Final project for cloud course
