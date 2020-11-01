@@ -1,0 +1,19 @@
+canvas {
+  background-color: white;
+}
+
+body {
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.5rem;
+}
+
+h1 {
+  min-height: 70px;
+  margin-top: 100px;
+  margin-bottom: 0;
+}
+
+div {
+  margin-top: 0;
+}
