@@ -89,6 +89,7 @@ class view {
     if (this.model.winLoc != null) {
       this.drawStreak()
     }
+    document.getElementById('status').innerHTML = 'Player ' + this.model.player + '\'s turn';
   }
 
 }
